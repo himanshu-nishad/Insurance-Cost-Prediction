@@ -1,4 +1,4 @@
-##Insurance Cost Prediction
+#Insurance Cost Prediction
 
 The goal of this project is to create a machine learning model that can accurately predict insurance costs based on various factors such as age, sex, BMI, children, smoker status, and region. The dataset used for this project is sourced from Kaggle.
 
